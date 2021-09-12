@@ -1,0 +1,6 @@
+[submodule "onnx2keras"]
+	path = onnx2keras
+	url = https://github.com/HedgehogCode/onnx2keras.git
+[submodule "PerceptualSimilarity"]
+	path = PerceptualSimilarity
+	url = https://github.com/richzhang/PerceptualSimilarity.git
