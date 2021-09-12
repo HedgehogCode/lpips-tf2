@@ -1,0 +1,13 @@
+name: lpips-convert
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - tensorflow==2.4
+    - onnx==1.10
+    - torch==1.9
+    - torchvision==0.10
+    - scipy==1.7
+    - tqdm
